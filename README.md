@@ -59,9 +59,9 @@ Me enfoco en:
   </a>
 </p>
 
-- 💼 Portafolio profesional
-- ⚡ Aplicaciones web modernas
-- 📊 Sistemas con base de datos
+- Portafolio profesional
+- Aplicaciones web modernas
+- Sistemas con base de datos
 
 ---
 
@@ -91,9 +91,6 @@ Me enfoco en:
 ---
 
 ## 📊 Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamfriasdev&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamfriasdev&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamfriasdev&theme=github_dark" />
 </p>
