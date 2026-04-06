@@ -1,16 +1,81 @@
-## Hi there 👋
+<!-- LOGO -->
+<p align="center">
+  <img src="./logo.png" alt="Logo" width="120" />
+</p>
 
-<!--
-**iamfriasdev/iamfriasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hola, soy Francisco Frías</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Desarrollador Full Stack <br/>
+  🚀 Apasionado por crear aplicaciones modernas, rápidas y escalables
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+Soy desarrollador Full Stack especializado en la creación de aplicaciones web modernas utilizando tecnologías actuales tanto en frontend como backend.
+
+Me enfoco en:
+- Interfaces limpias y funcionales
+- Buenas prácticas de desarrollo
+- Escalabilidad y rendimiento
+
+---
+
+## 🛠️ Tecnologías
+
+### Frontend
+- React / Next.js
+- TypeScript / JavaScript
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express
+- PostgreSQL
+
+### Herramientas
+- Git & GitHub
+- Docker
+- Postman
+
+---
+
+## 📌 Proyectos Destacados
+
+🔗 [Mi Portafolio](https://iamfrias.dev)
+
+- 💼 Portafolio profesional
+- ⚡ Aplicaciones web modernas
+- 📊 Sistemas con base de datos
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iamfriasdev" target="_blank">
+    LinkedIn
+  </a>
+  •
+  <a href="mailto:contact@iamfrias.dev">
+    Email
+  </a>
+</p>
+
+---
+
+## ⚡ Frase
+
+> "El código limpio siempre parece que fue escrito por alguien que se preocupa."
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
+</p>
