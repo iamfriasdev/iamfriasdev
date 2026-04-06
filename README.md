@@ -53,10 +53,9 @@ Me enfoco en:
 ---
 
 ## 📌 Proyectos Destacados
-
-🔗 <p align="center">
+<p align="center">
   <a href="https://iamfrias.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-Visitar%20Sitio-000000?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portafolio-Visitar%20Sitio-0A66C2?style=for-the-badge"/>
   </a>
 </p>
 
@@ -70,7 +69,7 @@ Me enfoco en:
 
 <p align="center">
   <a href="https://iamfrias.dev">
-    <img src="https://img.shields.io/badge/Portafolio-Visitar%20Sitio-000000?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portafolio-Visitar%20Sitio-0A66C2?style=for-the-badge"/>
   </a>
   <a href="https://wa.me/18298044457">
     <img src="https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
