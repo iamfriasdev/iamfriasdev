@@ -65,19 +65,15 @@ Me enfoco en:
 ## 📫 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/iamfriasdev" target="_blank">
-    LinkedIn
-  </a>
-  •
-  <a href="mailto:contact@iamfrias.dev">
-    Email
-  </a>
-</p>
-<p align="center">
   <a href="https://wa.me/18298044457">
-    <img src="https://img.shields.io/badge/WhatsApp-Contactame-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/iamfriasdev">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
 ---
 
