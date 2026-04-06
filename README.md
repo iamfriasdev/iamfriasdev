@@ -1,6 +1,6 @@
 <!-- LOGO -->
 <p align="center">
-  <img src="./iamfrias.jpeg" alt="Logo" width="1500" />
+  <img src="./iamfrias.png" alt="Logo" width="1500" />
 </p>
 
 <h1 align="center"> Francisco J. Frías Cabrera</h1>
