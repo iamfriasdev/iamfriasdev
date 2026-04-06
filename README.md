@@ -32,6 +32,8 @@ Me enfoco en:
 ## 🛠️ Tecnologías
 
 ### Frontend
+- HTML5
+- CSS3
 - React / Next.js
 - TypeScript / JavaScript
 - Tailwind CSS
@@ -40,15 +42,19 @@ Me enfoco en:
 - Node.js
 - Express
 - PostgreSQL
+- Prisma
+- REST APIs
 
 ### Herramientas
 - Git & GitHub
+- Visual Studio Code
 - Docker
 - Dbeaver
 - Cloudflare
 - Google WorkSpace
 - Windows Server
 - Linux Server
+- Figma
 
 ---
 
