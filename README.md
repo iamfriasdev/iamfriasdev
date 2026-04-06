@@ -3,18 +3,24 @@
   <img src="./iamfrias.jpeg" alt="Logo" width="1500" />
 </p>
 
-<h1 align="center">👋 Hola, soy Francisco Frías</h1>
+<h1 align="center"> Francisco J. Frías Cabrera</h1>
 
 <p align="center">
-  💻 Desarrollador Full Stack <br/>
-  🚀 Apasionado por crear aplicaciones modernas, rápidas y escalables
+  Software Developer Full Stack Web <br/>
+  Apasionado por crear aplicaciones modernas, rápidas y escalables
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy desarrollador Full Stack especializado en la creación de aplicaciones web modernas utilizando tecnologías actuales tanto en frontend como backend.
+Soy un desarrollador web apasionado por crear soluciones digitales que combinan diseño intuitivo con código robusto. Me gradué del Instituto Tecnológico de las Américas (ITLA), una de las instituciones más prestigiosas de la República Dominicana en el área de tecnología.
+
+Mi experiencia abarca desde el desarrollo frontend con React y Next.js hasta la implementación de backends escalables con Node.js. Me especializo en crear aplicaciones web completas que no solo se ven bien, sino que también funcionan de manera óptima.
+
+Actualmente, me encuentro completando la carrera de Ingeniería de Software, lo que fortalece aún más mi enfoque técnico y mi capacidad para diseñar soluciones escalables y bien estructuradas.
+
+Como Web Master, mantengo una visión holística de los proyectos digitales, asegurando la mejor experiencia de usuario, un rendimiento óptimo y código mantenible.
 
 Me enfoco en:
 - Interfaces limpias y funcionales
@@ -38,7 +44,11 @@ Me enfoco en:
 ### Herramientas
 - Git & GitHub
 - Docker
-- Postman
+- Dbeaver
+- Cloudflare
+- Google WorkSpace
+- Windows Server
+- Linux Server
 
 ---
 
@@ -75,7 +85,7 @@ Me enfoco en:
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamfriasdev&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamfriasdev&theme=tokyonight" />
 </p>
