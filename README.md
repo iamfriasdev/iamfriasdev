@@ -54,7 +54,11 @@ Me enfoco en:
 
 ## 📌 Proyectos Destacados
 
-🔗 [Mi Portafolio](https://iamfrias.dev)
+🔗 <p align="center">
+  <a href="https://iamfrias.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-Ver%20Sitio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 - 💼 Portafolio profesional
 - ⚡ Aplicaciones web modernas
