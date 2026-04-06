@@ -73,6 +73,11 @@ Me enfoco en:
     Email
   </a>
 </p>
+<p align="center">
+  <a href="https://wa.me/18298044457">
+    <img src="https://img.shields.io/badge/WhatsApp-Contactame-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
