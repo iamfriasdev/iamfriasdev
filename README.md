@@ -6,7 +6,7 @@
 <h1 align="center"> Francisco J. Frías Cabrera</h1>
 
 <p align="center">
-  Software Developer Full Stack Web <br/>
+  Software Developer - Full Stack Web <br/>
   Apasionado por crear aplicaciones modernas, rápidas y escalables
 </p>
 
