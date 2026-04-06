@@ -1,6 +1,6 @@
 <!-- LOGO -->
 <p align="center">
-  <img src="./iamfrias.jpeg" alt="Logo" width="1000" />
+  <img src="./iamfrias.jpeg" alt="Logo" width="1300" />
 </p>
 
 <h1 align="center">👋 Hola, soy Francisco Frías</h1>
