@@ -77,13 +77,13 @@ Me enfoco en:
   <a href="https://iamfrias.dev">
     <img src="https://img.shields.io/badge/Portafolio-Visitar%20Sitio-0A66C2?style=for-the-badge"/>
   </a>
-  <a href="https://wa.me/18298044457">
+  <a href="https://wa.me/18495797718">
     <img src="https://img.shields.io/badge/WhatsApp-Escríbeme-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/iamfriasdev">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tuemail@email.com">
+  <a href="mailto:ceo@iamfrias.dev">
     <img src="https://img.shields.io/badge/Email-Contáctame-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
